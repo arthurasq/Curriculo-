@@ -1,0 +1,26 @@
+
+.header {
+  width:595px;
+  height:842px;
+  margin: auto;
+  position:relative;
+  padding: 20px;
+   
+}
+.c1{
+  color: black;
+}
+.dados{
+ margin:0;
+  font-family:Sans-serif;
+  font-size: 16px;
+}
+img, h1{
+  display: inline-block;
+}
+
+.container{
+  display: flex;
+}
+
+
